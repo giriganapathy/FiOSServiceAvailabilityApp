@@ -1,0 +1,2 @@
+C:\girig\FiOSServiceAvailabilityApp\FiOSServiceAvailabilityApp\obj\Debug\FiOSServiceAvailabilityApp.njsprojResolveAssemblyReference.cache
+C:\girig\FiOSServiceAvailabilityApp\FiOSServiceAvailabilityApp\bin\Microsoft.NodejsTools.WebRole.dll
